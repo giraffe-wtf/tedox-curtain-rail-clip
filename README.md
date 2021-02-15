@@ -1,4 +1,12 @@
-# cad-template-repository
+# tedox-curtain-rail-clip
+
+Mounting clip for a tedox curtain rail.  
+https://www.tedox.de/gardinenschiene.html
+
+![tedox curtain rail](https://www.tedox.de/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/A/-/A-281087.jpg)
+
+Printed at a 45 degree angle, so no support is required and the layers are not parallel to the fingers, which positively affects the strength.  
+![](images/eb520a0265f60ac42192e087702f021c.jpg)
 
 ## License
 
